@@ -11,7 +11,7 @@ Introduction goes here.
 
 1. Add this extension to your Gemfile with this line:
   ```ruby
-  gem 'spree_data_import', github: '[your-github-handle]/spree_data_import'
+  gem 'spree_data_import', github: 'eugenmueller/spree_data_import'
   ```
 
 2. Install the gem using Bundler:

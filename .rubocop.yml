@@ -1,0 +1,9 @@
+AllCops:
+  Exclude:
+    - 'spec/dummy/**/*'
+    - 'Guardfile'
+    - 'spec/spec_helper.rb'
+
+Metrics/LineLength:
+  Exclude:
+    - 'lib/generators/spree_data_import/install/install_generator.rb'

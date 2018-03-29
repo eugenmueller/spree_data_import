@@ -1,3 +1,4 @@
+# version module
 module SpreeDataImport
   module_function
 
